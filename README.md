@@ -1,16 +1,14 @@
-# perguntas
+# Perguntas App
 
-A new Flutter project.
+Projeto de estudos Flutter.
 
-## Getting Started
+## Sobre
 
-This project is a starting point for a Flutter application.
+App simples de perguntas e respostas, atribuindo pontuação a cada resposta e exibindo os pontos e mensagem ao final do ciclo de 3 perguntas.
 
-A few resources to get you started if this is your first Flutter project:
+Projeto educacional, de aprendizado Flutter, alguns dos recursos aprendidos em caráter iniciante foram:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Widgets(Scaffold, AppBar, Text(TextStyle), TextButton, ElevatedButton, Column, Container, Center e Widgets customizados).
+- Classes, Funções, métodos e atributos. Noções de POO. 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
