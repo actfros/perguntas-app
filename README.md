@@ -3,7 +3,9 @@
 
   
 
-Projeto de estudos Flutter.
+Projeto de estudos Flutter. 
+
+Curso [# [Aprenda Flutter e Desenvolva Apps Para Android e IOS 2022](https://capgemini.udemy.com/course/curso-flutter/)](https://www.udemy.com/course/curso-flutter),
 
   
 
@@ -15,7 +17,7 @@ App simples de perguntas e respostas, atribuindo pontuação a cada resposta e e
 
   
 
-Projeto educacional de aprendizado Flutter, incluso no curso [# [Aprenda Flutter e Desenvolva Apps Para Android e IOS 2022](https://capgemini.udemy.com/course/curso-flutter/)](https://www.udemy.com/course/curso-flutter), alguns dos recursos aprendidos em caráter iniciante foram:
+Projeto educacional de aprendizado Flutter, alguns dos recursos aprendidos em caráter iniciante foram:
 
   
 
