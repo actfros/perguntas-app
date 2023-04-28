@@ -5,7 +5,7 @@
 
 Projeto de estudos Flutter. 
 
-Curso [# [Aprenda Flutter e Desenvolva Apps Para Android e IOS 2022](https://capgemini.udemy.com/course/curso-flutter/)](https://www.udemy.com/course/curso-flutter),
+### Curso  [Aprenda Flutter e Desenvolva Apps Para Android e IOS 2022](https://udemy.com/course/curso-flutter/)
 
   
 
